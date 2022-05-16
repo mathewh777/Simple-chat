@@ -3,9 +3,9 @@ text_blob = []
 
 connection = mysql.connector.connect(
             host="localhost",
-            user="bob",
-            passwd="{zN.uc+5[Q<Z{BcD4,",
-            database="view_db"
+            user="",
+            passwd="",
+            database=""
 )
 cursor = connection.cursor()
 #border: 1px groove black;s
